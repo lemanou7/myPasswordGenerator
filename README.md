@@ -1,15 +1,12 @@
-# myPasswordGenerator
-This repo is to create an application that will generate password using multiple parameters.
+# Password Generator
 
-# Portfolio using Bootstrap 
-
-## Subject: Responsive Portfolio
+## Subject: Responsive Password Generator
 
 ## Description:
-This project is to make a responsive portfolio website using bootstrap avoiding the use of media query.
+This repo is to create an application that will generate password using multiple parameters. When the prompt ask you: "How many characters would you like your password to be? ", you must entre a number between 8 and 128. 8 and 128 are included themselve. After that number input, you will be asked a series of question about whatever upper,numbers, special characters, lowercase characters you want in your password.When all answers are given, the application will go head and print the password on the screen. But if you don't like the generated password, you can still generate a new one without running the app again.
 
 ### See Website
-[Click Here](https://lemanou7.github.io/portfolio_work/) to see the application.
+[Click Here](https://lemanou7.github.io/myPasswordGenerator/) to see the application.
 
 
 ### Installation
@@ -17,10 +14,10 @@ This project is to make a responsive portfolio website using bootstrap avoiding 
 
 <!-- GETTING STARTED -->
 
-This is some useful steps, you must meet to run this html and css code correctly 
+This is some useful steps, you must meet to run this page correctly 
 
 ### Prerequisites
-You can use any code editor of user choise, i use Vs Code because it is open source and it understand git and do syntax highlighting very nicely.
+You can use any code editor of your choise, i use Vs Code because it is open source and it understand git and do syntax highlighting very nicely.
 
 * Go to
   [Click Here](https://code.visualstudio.com/download) to download Vs Code to your computer.
@@ -28,7 +25,7 @@ You can use any code editor of user choise, i use Vs Code because it is open sou
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/lemanou7/portfolio_work.git
+   git clone  https://github.com/lemanou7/myPasswordGenerator
    ```
 2. Get a linux shell emulator like Git bash or Powershell then:
     ```sh
